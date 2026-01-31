@@ -1,0 +1,9 @@
+---
+title: "News"
+listing:
+  contents: .
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+---

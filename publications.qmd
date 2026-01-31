@@ -1,0 +1,49 @@
+---
+title: "Publications"
+bibliography: data/publications.bib
+link-citations: false
+---
+
+## Selected
+
+- **Durum wheat with Yr78 and common wheat with Yr78 and Yr36 in coupling show enhanced stripe rust resistance** (2025) 
+Stripe rust resistance improved by combining key loci in wheat backgrounds. 
+
+- **Introgression of stem rust resistance gene Sr68 from *Thinopyrum junceum* into wheat** (2025) 
+Transfers durable stem rust resistance from wild relatives into wheat germplasm.
+
+- **Pan-genome and haplotype map of cassava cultivars and wild ancestors provide insights into its adaptive evolution and domestication** (2025) 
+We obtained near complete telomere-to-telomere genome assemblies and their haplotype forms for the cultivar AM560,
+the wild ancestors FLA4047 and W14, constructed a graphic pan-genome of 30 representatives with a size of 1.15 Gb,
+and built a clarified evolutionary tree of 486 accessions. 
+
+- **Genetic mapping and validation of QTL for whitefly resistance in cassava (Manihot esculenta Crantz)** (2025) 
+We identified QTL on chromosomes 1, 2, 5, 6, 8, 9, and 14, with a stable and highly significant QTL on chromosome 8 (MeF2WFly8.1), explaining 35.44% of the phenotypic variation. 
+
+- **Assessing realized genetic gains in biofortified cassava breeding for over a decade: Enhanced nutritional value and agronomic performance** (2024) 
+ We present realized genetic gains in biofortified cassava by analyzing the data from replicated multilocation breeding yield trials at the target
+population of environments spanning a 10-year period (2013–2022).
+
+- **Towards transforming cassava breeding: harnessing inbred-parent-based hybrid breeding strategies** (2024) 
+We propose an innovative approach – inbred-parent-based hybrid cassava breeding, aiming to transform cassava breeding by implementing backcrossing-based trait introgression,
+effectively purging deleterious mutations, and systematically exploring and utilizing heterosis. 
+
+## Full list
+
+<!-- Hidden citations to control order (NOT displayed) -->
+<span style="display:none">
+[@dang2025durum; 
+@xia2025pan; 
+@mandal2025introgression; 
+@bohorquez2025genetic; 
+@tokunaga2025development; 
+@zhang2024towards; 
+@alzate2024physicochemical; 
+@delgado2024assessing; 
+@arnaud2024connecting; 
+@mbanjo2024validation; 
+@ayalde2024ai]
+</span>
+
+::: {#refs}
+:::

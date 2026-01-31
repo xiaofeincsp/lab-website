@@ -1,0 +1,19 @@
+---
+title: "Field Day: Stripe Rust and Low-Input Wheat"
+date: 2026-02-15
+categories: [Field Day, Outreach]
+image: "../images/2025fieldDay.jpg"
+description: "A UC Davis field day highlighting durable rust resistance and low-input wheat design."
+---
+
+![](../images/2025fieldDay.jpg){width=100%}
+
+## What we shared
+- Stripe rust nurseries and durability comparisons
+- Low-input plant architecture lines
+- Nutrition-focused wheat lines
+- UAV-based phenotyping demonstrations
+
+## Why it matters
+These efforts support yield and quality stability in real-world California fields
+while reducing reliance on water and fertilizer.

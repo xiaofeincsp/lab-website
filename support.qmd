@@ -1,0 +1,18 @@
+---
+title: "Collaboration"
+---
+
+## Why Collaborate with the Foundry
+The Small Grain Foundry is built for partnership,
+offering a unique 'field-first' infrastructure
+that bridges high-level genomics with large-scale phenotypic reality. 
+
+Whether you are a **biotechnologist** looking to validate gene function in elite germplasm,
+a **computational biologist** seeking high-quality field data to refine predictive models,
+or a **private-sector partner** aiming to deploy resilient, nutrient-dense varieties,
+we invite you to join our mission. 
+By combining our strengths in **evo-mining**, **stripe rust** diagnostics, and **nutritional bio-design**,
+we can accelerate the transition from genetic discovery to real-world agricultural impact.
+
+## Partner with us
+If you’re interested in industry collaboration or sponsorship, contact us at xfczhang@ucdavis.edu

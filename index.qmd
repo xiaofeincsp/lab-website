@@ -1,0 +1,103 @@
+---
+title: "The Small Grains Foundry"
+toc: false
+---
+
+## What we do
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+**Redesigning Small Grains for Global Health and Resilience**
+
+Most modern crops are like race cars: they go fast (high yield)
+but only with perfect conditions, expensive fuel (fertilizer), and lots of maintenance (water).
+
+**We do things differently.** At the Small Grains Foundry,
+we design bread wheat, durum wheat, barley, oat, and triticale that are *tough by nature*.
+We develop grains that grow strong in real-world fields with less water and fertilizer,
+while producing healthier food for your table every day.
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![](images/erect.jpg){width=100% fig-alt='Erect, resilient small grains in the field'}
+:::
+
+:::
+
+::: {.callout-note}
+**Interested in joining?** See **Join** for positions and how to apply.  
+**Interested in supporting?** See **Collaboration** for how donations translate into field impact.
+:::
+
+## Research highlights
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Grains for Health
+
+(The Nutrition Project)
+
+We believe **bread** should be food for a healthier life.
+We have developed special 'Elite' seeds that are nearly ready for farmers to plant.
+These include a 'gut-friendly' wheat with reduced immunogenicity,
+a high-fiber wheat to help prevent disease,
+and our recently released variety that is naturally packed with extra pro-Vitamin A.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Lasting Protection
+
+(The Stripe Rust Project)
+
+Crop **diseases** act like 'hackers' that are always trying to break into the plant.
+Our lab is a key watchdog for the U.S., which means we often see new stripe rust races early.
+Instead of a quick fix that stops working after several years,
+we study how groups of genes work together to give the plant a durable 'firewall' against disease.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Better Plant Design
+
+(The Low-Input Project)
+
+We are rethinking how crops grow so they do not need too much fertilizer and extra water.
+By using specific genes that change **plant architecture**, we build crops that stay short and strong while
+growing deeper roots. This helps farmers get a good harvest even during a drought,
+and it protects the environment by using fewer inputs.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Digging for Secrets
+
+(The Evo-Mining Project)
+
+Modern farming has focused so much on high yields that it accidentally lost traits that help plants
+survive heat and stress. We go 'mining' in older varieties to find these lost survival secrets.
+We study the complex DNA of wheat to unlock old ways of staying resilient that have not been seen in
+modern fields for centuries.
+:::
+
+:::
+
+## Why Join the Foundry?
+
+**We are Field-First.**
+We do not just simulate stress on a computer; we solve it where it happens.
+You will work in the real-world heat and drought conditions of California,
+because that is where true resilience is proven.
+
+**Master the Modern Breeding Toolkit.**
+We train students to be leaders in both industry and academia.
+You will not just learn one skill; you will master the entire pipeline from lab to harvest:
+
+- **The Tech:** Learn genetic mapping, big data analysis, and high-tech phenotyping (using sensors to measure plant growth).
+- **The Science:** Connect molecular and quantitative genetics and evolutionary theory to practical breeding to unlock survival traits in the wheat genome.
+- **The Grit:** Gain hands-on experience managing your own field trials—a skill highly valued by top agricultural companies and elite research universities.
+
+**The Goal:** To graduate as a scientist who uses advanced tools to solve real-world problems.
+
+## Latest news
+Go to **News** for field days, student highlights, and release updates.

@@ -1,0 +1,58 @@
+---
+title: "Research"
+---
+
+We integrate **multi-environment field trials**, **comparative genomics**, and **high-throughput phenomics** to
+understand and improve stability in yield, quality, and stress response in small grains.
+
+## Theme 1 — Bio-Design for Human Nutrition
+
+**Engineering Grain for Metabolic Health**
+
+Food security is a function of nutrient density, not just caloric volume.
+We treat nutritional quality as a primary breeding objective rather than a secondary trait.
+Our research focuses on:
+
+- **Gut Health & Glycemic Index:** Leveraging QTLs and genes for arabinoxylan and high-amylose content to increase dietary fiber.
+- **Immunogenicity:** Using gliadin deletions to reduce gluten-related sensitivity while maintaining or enhancing dough processing strength.
+- **Micronutrient Density:** Deploying biofortification strategies, such as our recently released high-beta-carotene wheat varieties.
+
+## Theme 2 — Translating Discoveries into Varieties
+
+**Modern Tools, Real-world Impact**
+
+Basic discovery must bridge the gap to deployment. We operate efficient breeding pipelines that integrate:
+
+- **Precision Tools:** Genomic selection, speed breeding, and CRISPR-informed trait introgression.
+- **Scalable Phenomics:** High-throughput field phenotyping to capture real-time data on plant development.
+- **Impact:** This integrated approach allows us to move efficiently from genetic insight to breeder seed release.
+
+## Theme 3 — Epistasis & Trait Stability
+
+**Stripe Rust as a Model for Complex Gene Interactions**
+
+A persistent challenge in crop improvement is genetic background effects—why a gene works in one variety
+but fails in another. We use stripe rust as a biological tool to study this problem in real field environments.
+By shifting focus from single R-genes to **gene interaction networks**,
+we are developing a framework for durable disease resistance that remains stable across diverse environments.
+
+## Theme 4 — Beyond the Green Revolution
+
+**Optimizing Performance for Low-Input Environments**
+
+The Green Revolution increased yield by relying on high inputs such as fertilizer and irrigation.
+However, these systems are increasingly costly and unsustainable.
+Our program addresses this limitation by studying **novel semidwarfing genes** that reshape plant architecture
+while preserving early vigor, biomass, and grain filling under drought and nitrogen limitation.
+This work aims to develop new crop designs that maintain strong yield and stability under real-world farming conditions.
+
+## Theme 5 — Evo-Mining & Polyploid Dynamics
+
+**Unlock the Adaptive Potential of the Wheat Genome**
+
+Modern breeding has increased yields but has narrowed crops' ability to adapt to environmental stress.
+Our research asks a fundamental evolutionary question:
+how does polyploid genome structure interact with historical selection to shape long-term adaptation?
+Using wheat as a modern polyploid crop, we compare landraces, modern cultivars,
+and regionally distinct lineages in multi-environment field trials.
+This work integrates evolution, polyploid biology, and field performance to identify pathways for rebuilding resilience in modern crops.

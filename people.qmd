@@ -1,0 +1,20 @@
+---
+title: "People"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+library(readr)
+library(dplyr)
+
+people <- read_csv("data/people.csv", show_col_types = FALSE) |>
+  arrange(role_order, name)
+
+knitr::kable(
+  people |> select(name, role, period, interests, email),
+  col.names = c("Name", "Role", "Period", "Interests", "Email")
+)
+```

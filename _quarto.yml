@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "**UC Davis Small Grains Breeding Program**"
+  site-url: "https://xiaofeincsp.github.io/lab-website/"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: People
+        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Join
+        href: join.qmd
+      - text: Collaboration
+        href: support.qmd
+      - text: News
+        href: news/index.qmd
+  page-footer:
+    left: "© {year} UC Davis Small Grains Breeding Program"
+    right:
+      - text: Contact
+        href: "mailto:xfczhang@ucdavis.edu"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
